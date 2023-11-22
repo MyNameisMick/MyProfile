@@ -1,0 +1,70 @@
+.one{
+    color: aquamarine;
+    font-size: 25px;
+    background-color: blueviolet;
+    /* text-align: left; */
+}
+#two{
+    color: yellowgreen;
+    font-size: 25px;
+    /* background-color: rgb(236, 64, 122); */
+    border: 10px solid rgb(248, 187, 208);
+    border-radius: 5.5% ;
+    
+
+    /* text-align: center; */
+}
+
+p {
+    color: chocolate;
+    font-size: 50px;
+    background-color: rgb(129, 212, 250);
+    /* text-align: right; */
+}
+
+.two{
+    color: red;
+    font-size: 25px;
+    /* background-color: rgb(38, 166, 154); */
+    /* text-align: end; */
+}
+
+ body{
+     /* background-color: rgb(255, 241, 118); */
+ }
+
+ a{
+     text-decoration: none;
+     color: rgb(156, 204, 101);
+     font-size: 50px;
+    ;
+ }
+
+.Content img{
+    height: 300px;
+    width: 300px;
+}
+
+.Content{
+    background-color: palevioletred;
+    text-align: center;
+}
+
+p{
+    background-color: darkmagenta;
+    color: white;
+    margin-top: 100px;
+    text-align: center;
+    font-size: 100px
+}
+
+.Content{
+    font-family: 'Koulen', cursive;
+}
+
+p{
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+
+

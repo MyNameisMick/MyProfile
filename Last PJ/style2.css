@@ -1,0 +1,23 @@
+.Content img{
+    height: 300px;
+    width: 300px;
+}
+
+.Content{
+    background-color: palevioletred;
+    text-align: center;
+}
+
+p{
+    background-color: darkmagenta;
+    font-family: 'Koulen', cursive;
+    color: white;
+    margin-top: 100px;
+    text-align: center;
+    font-size: 100px
+}
+
+.Content{
+    font-family: 'Mali', cursive;
+}
+

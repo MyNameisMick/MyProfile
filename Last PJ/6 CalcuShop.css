@@ -1,0 +1,132 @@
+.HEAD{
+    text-align: center;
+    font-size: 50px;
+    background-color: white;
+    font-family: 'Bebas Neue', cursive;
+}
+
+.Navbar{
+    text-align: center;
+    border-style: none;
+    border-color: rgb(255, 255, 255) ;
+    padding: 15px 20px;
+    margin-bottom: 20px;
+    background-color: rgb(122, 150, 156);
+}
+.Navbar ol{
+    font-family: 'Bebas Neue', cursive;
+    text-align: center;
+    font-size: 26px;
+    display: inline;
+    color: beige;
+}
+.Navbar a{
+    text-decoration: none;
+    margin-left: 20px;
+    color: aliceblue;
+}
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    background: url(https://wallpapercave.com/wp/wp6424826.jpg);
+    background-size: cover;
+}
+
+.Calcu{
+    margin-top:;
+    font-family: 'Pacifico', cursive;
+    background: rgb(126, 6, 6);
+    margin-left: 600px;
+    margin-right: 600px;
+    border: 5px solid;
+    border-radius: 10px;
+    text-align: center;
+
+}
+
+.Calcu2{
+    color: aliceblue;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+button{
+    font-size: 20px;
+    background-color: rgba(15, 211, 136, 0.788);
+    font-weight: bold;
+    color: white;
+    border: 2.5px solid;
+    border-radius: 10px;
+}   
+
+.Price {
+    color: aliceblue;
+    font-size: 20px;
+}
+
+.Amount{
+    color: aliceblue;
+    font-size: 20px;
+}
+
+.Total{
+    color: aliceblue;
+    font-size: 20px;
+}
+
+#price {
+    font-size: 20px;
+    border-radius: 10px;
+    border: 0px;
+}
+
+#items{
+    font-size: 20px;
+    border-radius: 10px;
+    border: 0px;
+}
+
+#total{
+    font-size: 27px;
+    color: aliceblue;
+}
+
+.reset{
+    background-color:  rgb(126, 6, 6);
+}
+
+.lego{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 45px;
+    text-align: center;
+    color: white;
+    border: dashed;
+    margin-left: 650px;
+    margin-right: 650px;
+    background-color: rgba(17, 1, 158, 0.185);
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+i{
+    margin: 30px;
+    font-size: 60px;
+    color: aliceblue;
+}
+
+.หัวข้อ{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 45px;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    border: dashed;
+    margin-left: 650px;
+    margin-right: 650px;
+    background-color: rgba(17, 1, 158, 0.185);
+    border-radius: 10px;
+}

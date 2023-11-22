@@ -1,0 +1,105 @@
+div{
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Koulen', cursive;
+    
+}
+
+body{
+    background: url(https://wallpapercave.com/wp/wp6424826.jpg);
+    background-size: cover;
+    text-align: center;
+}
+
+.one{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 45px;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    border: dashed;
+    margin-left: 650px;
+    margin-right: 650px;
+    background-color: rgba(17, 1, 158, 0.185);
+    border-radius: 10px;
+}
+
+.two{
+    font-size: 30px;
+    font-family: 'Koulen', cursive;
+    color: white;
+}
+
+.three{
+    font-size: 35px;
+    font-family: 'Koulen', cursive;
+    color: white;
+}
+
+button{
+    font-size: 20px;
+    background-color: bisque;
+    font-family: 'Koulen', cursive;
+    border-radius: 10px;
+}
+
+.HEAD{
+    text-align: center;
+    font-size: 50px;
+    background-color: white;
+    font-family: 'Bebas Neue', cursive;
+}
+
+.Like{
+    color: white;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.Navbar{
+    text-align: center;
+    border-style: none;
+    border-color: rgb(255, 255, 255) ;
+    padding: 15px 20px;
+    margin-bottom: 20px;
+    background-color: rgb(122, 150, 156);
+}
+.Navbar ol{
+    font-family: 'Bebas Neue', cursive;
+    text-align: center;
+    font-size: 26px;
+    display: inline;
+    color: beige;
+}
+.Navbar a{
+    text-decoration: none;
+    margin-left: 20px;
+    color: aliceblue;
+}
+
+.lego{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 45px;
+    text-align: center;
+    color: white;
+    border: dashed;
+    margin-left: 650px;
+    margin-right: 650px;
+    background-color: rgba(17, 1, 158, 0.185);
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+i{
+    margin: 30px;
+    font-size: 60px;
+    color: aliceblue;
+}
+
+textarea{
+    border: 2px solid;
+    border-radius: 10px;
+}

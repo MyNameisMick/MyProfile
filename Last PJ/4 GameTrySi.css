@@ -1,0 +1,181 @@
+img{
+    margin: 50px;
+    height: 50px;
+    width: 50px;
+}
+
+.color{
+    text-align: center;
+    margin-bottom: 40px;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+
+.หัวข้อ{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 45px;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    border: dashed;
+    margin-left: 650px;
+    margin-right: 650px;
+    background-color: rgba(17, 1, 158, 0.185);
+    border-radius: 10px;
+}
+
+
+
+body{
+    background: url(https://wallpapercave.com/wp/wp6424826.jpg);
+    background-size: cover;
+}
+
+fieldset{
+    text-align: center;
+    margin-left:500px;
+    margin-right: 500px;
+}
+
+legend{
+    font-size: 35px;
+    color: white;
+    font-family: 'Bebas Neue', cursive;
+}
+
+h2{
+    font-size: 23px;
+    font-family: 'Mali', cursive;
+}
+
+.ans{
+    border: solid 5px rgb(71, 0, 0);
+    border-radius: 10px;
+    font-size: 15px;
+}
+    
+#TEST{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    border: dashed;
+    margin-left: 800px;
+    margin-right: 800px;
+}
+
+
+
+button{
+    font-size: 20px;
+    background-color: rgba(218, 29, 29, 0.514);
+    font-weight: bold;
+    color: white;
+    border: 2.5px solid;
+    border-radius: 10px;
+}
+
+p{
+    font-size: 15px;
+    margin-left: 5%;
+    color: white
+}   
+.Re{
+    margin-left: 10px ;
+    margin-right: 70px;
+    font-family: 'Mali', cursive;
+    background: rgb(99, 1, 1);
+}
+.Ora{
+    margin-left:  40px ;
+    margin-right: 50px;
+    font-family: 'Mali', cursive;
+    background: rgb(99, 1, 1);
+}
+.Yel{
+    margin-left:  80px;
+    margin-right: -20px;
+    font-family: 'Mali', cursive;
+    background: rgb(99, 1, 1);
+}
+.Gre{
+    margin-left: 120px ;
+    margin-right: 49px;
+
+    font-family: 'Mali', cursive;
+    background: rgb(99, 1, 1);
+}
+.Li{
+    margin-left: 65px ;
+    margin-right: 60px;
+    font-family: 'Mali', cursive;
+    background: rgb(99, 1, 1);
+}
+
+.LINKSTARTO{
+    text-align: center;
+}
+
+.LINKSTARTO2{
+    background-color: rgba(15, 211, 136, 0.788);
+    font-size: 20px;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.HEAD{
+    text-align: center;
+    font-size: 50px;
+    background-color: white;
+    font-family: 'Bebas Neue', cursive;
+}
+
+.Navbar{
+    text-align: center;
+    border-style: none;
+    border-color: rgb(255, 255, 255) ;
+    padding: 15px 20px;
+    margin-bottom: 20px;
+    background-color: rgb(122, 150, 156);
+}
+.Navbar ol{
+    font-family: 'Bebas Neue', cursive;
+    text-align: center;
+    font-size: 26px;
+    display: inline;
+    color: beige;
+}
+.Navbar a{
+    text-decoration: none;
+    margin-left: 20px;
+    color: aliceblue;
+}
+
+.reset
+{
+    background-color: rgb(0, 170, 113);
+}
+
+
+.lego{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 45px;
+    text-align: center;
+    color: white;
+    border: dashed;
+    margin-left: 650px;
+    margin-right: 650px;
+    background-color: rgba(17, 1, 158, 0.185);
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+i{
+    margin: 30px;
+    font-size: 60px;
+    color: aliceblue;
+}

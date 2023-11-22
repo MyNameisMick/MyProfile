@@ -1,0 +1,110 @@
+.calcugrade{
+    text-align: center;
+    margin-top: ;
+}
+.HEAD{
+    text-align: center;
+    font-size: 50px;
+    background-color: white;
+    font-family: 'Bebas Neue', cursive;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background: url(https://wallpapercave.com/wp/wp6424826.jpg);
+    background-size: cover;
+}
+
+#content{
+        font-family: 'Bebas Neue', cursive;
+        font-size: 45px;
+        text-align: center;
+        font-weight: bold;
+        color: white;
+        border: dashed;
+        margin-left: 650px;
+        margin-right: 650px;
+        background-color: rgba(17, 1, 158, 0.185);
+        border-radius: 10px;
+}
+
+.Boxtext{
+    margin-top: 150px;
+    font-family: 'Pacifico', cursive;
+    background: rgb(126, 6, 6);
+    margin-left: 600px;
+    margin-right: 600px;
+    border: 5px solid;
+    border-radius: 10px;
+}
+
+.Puss{
+    font-size: 30px;
+    color: white;
+    font-weight: bold;
+
+}
+
+.inp{
+    font-size: 20px;
+}
+
+.Button{
+    font-family: 'Pacifico', cursive;
+    font-weight: bold;
+    background-color: rgba(15, 211, 136, 0.788);
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+#Answer{
+    background: white;
+}
+
+.Navbar{
+    text-align: center;
+    border-style: none;
+    border-color: rgb(255, 255, 255) ;
+    padding: 15px 20px;
+    margin-bottom: 20px;
+    background-color: rgb(122, 150, 156);
+}
+.Navbar ol{
+    font-family: 'Bebas Neue', cursive;
+    text-align: center;
+    font-size: 26px;
+    display: inline;
+    color: beige;
+}
+.Navbar a{
+    text-decoration: none;
+    margin-left: 20px;
+    color: aliceblue;
+}
+.inp{
+    border-radius: 5px;
+    border: 10px;
+}
+
+.lego{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 45px;
+    text-align: center;
+    color: white;
+    border: dashed;
+    margin-left: 650px;
+    margin-right: 650px;
+    background-color: rgba(17, 1, 158, 0.185);
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+i{
+    margin: 30px;
+    font-size: 60px;
+    color: aliceblue;
+}

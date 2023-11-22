@@ -1,0 +1,153 @@
+.one{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 45px;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    border: dashed;
+    margin-left: 650px;
+    margin-right: 650px;
+    background-color: rgba(17, 1, 158, 0.185);
+    border-radius: 10px;
+}
+
+div{
+    text-align: center;
+}
+
+  body{
+    background: url(https://wallpapercave.com/wp/wp6424826.jpg);
+    background-size: cover;
+    text-align: center;
+}
+
+.two{
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    background-color: rgb(129, 45, 45);
+    font-family: 'Pacifico', cursive;
+    margin-left: 600px; 
+    margin-right: 600px;
+    border-radius: 10px;
+}
+
+legend{
+    font-size: 30px;
+    font-family: 'Pacifico', cursive;
+    font-weight: bold;
+}
+
+select{
+    font-family: 'Pacifico', cursive;
+}
+
+label{
+    font-family: 'Pacifico', cursive;
+    font-size: 20px;
+}
+
+.three{
+    font-family: 'Pacifico', cursive;
+    font-size: 20px;
+}
+
+.four{
+    background-color:rgb(129, 45, 45);
+    color: rgb(255, 255, 255);
+    margin-left: 600px;
+    margin-right: 600px;
+    border-radius: 10px;
+}
+
+
+.five {
+    background-color: rgb(198, 255, 0);;
+    font-size: 110%;
+    font-family: 'Pacifico', cursive;
+    /* font-weight: bold; */
+    border: 5px;
+    border-radius: 5px;
+    color:black
+}
+
+.six{
+    background-color: rgb(218, 11, 11);
+    font-size: 110%;
+    font-family: 'Pacifico', cursive;
+    /* font-weight: bold; */
+    border: 5px;
+    border-radius: 5px;
+    color:black
+
+}
+
+.HEAD{
+    text-align: center;
+    font-size: 50px;
+    background-color: white;
+    font-family: 'Bebas Neue', cursive;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.Navbar{
+    text-align: center;
+    border-style: none;
+    border-color: rgb(255, 255, 255) ;
+    padding: 15px 20px;
+    margin-bottom: 20px;
+    background-color: rgb(122, 150, 156);
+}
+.Navbar ol{
+    font-family: 'Bebas Neue', cursive;
+    text-align: center;
+    font-size: 26px;
+    display: inline;
+    color: beige;
+}
+.Navbar a{
+    text-decoration: none;
+    margin-left: 20px;
+    color: aliceblue;
+}
+
+.lego{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 45px;
+    text-align: center;
+    color: white;
+    border: dashed;
+    margin-left: 650px;
+    margin-right: 650px;
+    background-color: rgba(17, 1, 158, 0.185);
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+i{
+    margin: 30px;
+    font-size: 60px;
+    color: aliceblue;
+}
+
+input{
+    border-radius: 10px;
+    border: 0px;
+    font-size: 15px;  
+    
+}
+
+select{
+    border-radius: 10px;
+    border: 0px;
+    font-size: 15px;
+}
+
+textarea{
+    border-radius: 10px;
+    border: 0px;
+    font-size: 15px;
+}
